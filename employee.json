@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "John",
+        "DOB": "1990-05-15",
+        "Height": 175,
+        "City": "Mumbai",
+        "State": "Maharashtra"
+    },
+    {
+        "Name": "Alice",
+        "DOB": "1988-10-22",
+        "Height": 162,
+        "City": "Bangalore",
+        "State": "Karnataka"
+    },
+    {
+        "Name": "David",
+        "DOB": "1995-03-07",
+        "Height": 180,
+        "City": "Delhi",
+        "State": "Delhi"
+    },
+    {
+        "Name": "Emily",
+        "DOB": "1992-07-31",
+        "Height": 168,
+        "City": "Chennai",
+        "State": "Tamil Nadu"
+    },
+    {
+        "Name": "Michael",
+        "DOB": "1985-12-18",
+        "Height": 185,
+        "City": "Kolkata",
+        "State": "West Bengal"
+    }
+]
